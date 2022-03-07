@@ -1,0 +1,22 @@
+.firstclass{
+    background-color:lightpink;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.secondclass{
+    background-color: lightpink;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#num2{
+    font-size: 36px;
+    color: blue;
+}
+
+#num4{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
